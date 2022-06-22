@@ -15,3 +15,8 @@ use the arrow keys to move around
 
 warning:
 this is a shitty game
+
+
+
+bugz:
+if game crashes on start then you probably did not install pygame

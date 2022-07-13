@@ -1,5 +1,5 @@
 # trick-tac-tow
-this is a game that i made with pygame, it is very bad and a waste of time
+a game made with pygame, try and avoid the red blocks
 
 requierments - 
 python installed,
